@@ -1,1 +1,3 @@
 # stegopatch
+
+run front.m
